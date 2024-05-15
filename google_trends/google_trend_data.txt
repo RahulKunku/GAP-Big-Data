@@ -1,0 +1,35 @@
+1. all_seasons_rising_topics
+- value: increase rate since the last time period
+- topic_title: topic related with keyword
+- category: keyword
+- season: season(spring 2022-03-01 2022-05-31, 
+		 summer 2022-06-01 2022-08-31,
+		 fall   2022-09-01 2022-11-30, 
+		 winter 2022-12-01 2023-02-28)
+
+2. all_seasons_top_topics
+- value: relative scale where a value of 100 is the most commonly searched topic and a value of 50 is a topic searched half as often as the most popular term, and so on.
+- topic_title: topic related with keyword
+- category: keyword
+- season: season(spring 2022-03-01 2022-05-31, 
+		 summer 2022-06-01 2022-08-31,
+		 fall   2022-09-01 2022-11-30, 
+		 winter 2022-12-01 2023-02-28)
+
+3. all_seasons_rising_queries
+- query: query related with keyword
+- value: increase rate since the last time period
+- category: keyword
+- season: season(spring 2022-03-01 2022-05-31, 
+		 summer 2022-06-01 2022-08-31,
+		 fall   2022-09-01 2022-11-30, 
+		 winter 2022-12-01 2023-02-28)
+
+4. all_seasons_top_queries
+- query: query related with keyword
+- value: relative scale where a value of 100 is the most commonly searched query, 50 is a query searched half as often as the most popular query, and so on.
+- category: keyword
+- season: season(spring 2022-03-01 2022-05-31, 
+		 summer 2022-06-01 2022-08-31,
+		 fall   2022-09-01 2022-11-30, 
+		 winter 2022-12-01 2023-02-28)

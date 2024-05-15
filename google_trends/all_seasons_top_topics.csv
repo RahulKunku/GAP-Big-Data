@@ -1,0 +1,956 @@
+value,topic_title,category,season
+100,Clothing,clothing,Spring
+6,Clothing store,clothing,Spring
+5,Brand,clothing,Spring
+4,Clothing brand,clothing,Spring
+3,Plus-size clothing,clothing,Spring
+2,Men's Clothing,clothing,Spring
+2,SHEIN,clothing,Spring
+1,Fashion,clothing,Spring
+1,Boutique,clothing,Spring
+1,Cider,clothing,Spring
+1,Wholesaling,clothing,Spring
+1,Cider,clothing,Spring
+1,Vintage clothing,clothing,Spring
+1,Children's clothing,clothing,Spring
+1,Custom,clothing,Spring
+1,H&M,clothing,Spring
+1,Revolve,clothing,Spring
+0,Zara,clothing,Spring
+0,Linen,clothing,Spring
+0,Blair,clothing,Spring
+0,Sun protective clothing,clothing,Spring
+0,Sleeveless shirt,clothing,Spring
+0,Urban Outfitters,clothing,Spring
+0,Torrid,clothing,Spring
+0,Avenue,clothing,Spring
+100,Blouse,blouses,Spring
+36,Woman,blouses,Spring
+11,Top,blouses,Spring
+8,Sleeve,blouses,Spring
+7,Clothing,blouses,Spring
+7,Shirt,blouses,Spring
+7,Sweater,blouses,Spring
+6,Dress,blouses,Spring
+6,White,blouses,Spring
+6,Plus-size clothing,blouses,Spring
+4,Macy's,blouses,Spring
+4,Summer,blouses,Spring
+3,T-shirt,blouses,Spring
+3,Trousers,blouses,Spring
+3,JCPenney,blouses,Spring
+3,JCPenney,blouses,Spring
+2,Silk,blouses,Spring
+2,Kohl's,blouses,Spring
+2,Kohl's,blouses,Spring
+2,Button,blouses,Spring
+2,Cotton,blouses,Spring
+2,SHEIN,blouses,Spring
+2,Macy's,blouses,Spring
+2,Macy's,blouses,Spring
+2,Dress shirt,blouses,Spring
+100,Denim,denim,Spring
+25,Jeans,denim,Spring
+22,Jacket,denim,Spring
+19,Jean jacket,denim,Spring
+13,Woman,denim,Spring
+12,Shorts,denim,Spring
+8,Shirt,denim,Spring
+8,Dress,denim,Spring
+7,Jean Shorts,denim,Spring
+7,Skirt,denim,Spring
+5,Clothing,denim,Spring
+5,Trousers,denim,Spring
+4,Denim skirt,denim,Spring
+4,Blue,denim,Spring
+3,Levi's,denim,Spring
+3,Levi Strauss & Co.,denim,Spring
+2,Handbag,denim,Spring
+2,Jumpsuit,denim,Spring
+2,Overalls,denim,Spring
+2,Sleeve,denim,Spring
+2,Levi’s,denim,Spring
+2,Top,denim,Spring
+2,Plus-size clothing,denim,Spring
+2,Denim Day,denim,Spring
+2,Waistcoat,denim,Spring
+100,Dress,dresses,Spring
+22,Clothing,dresses,Spring
+12,Wedding,dresses,Spring
+11,Prom,dresses,Spring
+11,Prom dresses,dresses,Spring
+10,Woman,dresses,Spring
+7,Wedding dress,dresses,Spring
+5,Formal wear,dresses,Spring
+5,Plus-size clothing,dresses,Spring
+4,Summer,dresses,Spring
+4,Bridesmaid,dresses,Spring
+3,Bridesmaid dress,dresses,Spring
+3,Bride,dresses,Spring
+3,Macy's,dresses,Spring
+3,Sleeve,dresses,Spring
+3,SHEIN,dresses,Spring
+2,Cocktail,dresses,Spring
+2,Plus Size Dress,dresses,Spring
+2,Cocktail dress,dresses,Spring
+2,Lulus,dresses,Spring
+2,Windsor,dresses,Spring
+2,Graduation ceremony,dresses,Spring
+2,Party,dresses,Spring
+1,Nordstrom,dresses,Spring
+1,Macy's,dresses,Spring
+100,Trousers,pants,Spring
+13,Man,pants,Spring
+13,Woman,pants,Spring
+7,Clothing,pants,Spring
+6,Cargo pants,pants,Spring
+4,Cargo,pants,Spring
+4,Dress,pants,Spring
+4,Shirt,pants,Spring
+3,Jeans,pants,Spring
+3,Size,pants,Spring
+2,Yoga pants,pants,Spring
+2,Dress Pants,pants,Spring
+2,Yoga,pants,Spring
+2,Khaki,pants,Spring
+2,Leather,pants,Spring
+2,Linen,pants,Spring
+2,Suit,pants,Spring
+2,Bell-bottoms,pants,Spring
+2,Grey,pants,Spring
+2,Shorts,pants,Spring
+2,Nike Store,pants,Spring
+2,Dickies,pants,Spring
+2,Nike,pants,Spring
+2,Dickies,pants,Spring
+2,Wear,pants,Spring
+100,Shirt,shirts,Spring
+62,T-shirt,shirts,Spring
+15,Man,shirts,Spring
+7,Clothing,shirts,Spring
+6,Polo shirt,shirts,Spring
+6,Dress shirt,shirts,Spring
+6,Sleeve,shirts,Spring
+3,Button,shirts,Spring
+3,custom-made,shirts,Spring
+2,Shorts,shirts,Spring
+2,Men's Shirt,shirts,Spring
+1,Collar,shirts,Spring
+1,Cotton,shirts,Spring
+1,fit,shirts,Spring
+1,Aloha shirt,shirts,Spring
+1,Hawaiian,shirts,Spring
+1,Dye,shirts,Spring
+1,Tie-dye,shirts,Spring
+1,Plus-size clothing,shirts,Spring
+1,Ralph Lauren,shirts,Spring
+1,Linen,shirts,Spring
+0,Banana Republic,shirts,Spring
+0,UNIQLO,shirts,Spring
+100,Shorts,shorts,Spring
+16,Man,shorts,Spring
+13,Woman,shorts,Spring
+7,Nike,shorts,Spring
+6,Nike,shorts,Spring
+6,Nike Store,shorts,Spring
+5,Jean Shorts,shorts,Spring
+5,Shirt,shorts,Spring
+4,Cycling shorts,shorts,Spring
+4,Jeans,shorts,Spring
+4,YouTube Shorts,shorts,Spring
+4,Bicycle,shorts,Spring
+3,Boardshorts,shorts,Spring
+3,Men's Shorts,shorts,Spring
+3,T-shirt,shorts,Spring
+3,Gym shorts,shorts,Spring
+3,Denim,shorts,Spring
+3,Swimming,shorts,Spring
+2,Trousers,shorts,Spring
+2,Lululemon Athletica,shorts,Spring
+2,lululemon,shorts,Spring
+2,Boy,shorts,Spring
+2,Cargo Shorts,shorts,Spring
+2,lululemon,shorts,Spring
+2,Cargo,shorts,Spring
+100,Skirt,skirts,Spring
+16,Woman,skirts,Spring
+10,Dress,skirts,Spring
+6,side,skirts,Spring
+6,Miniskirt,skirts,Spring
+6,Summer,skirts,Spring
+5,Clothing,skirts,Spring
+4,Shirt,skirts,Spring
+3,Denim skirt,skirts,Spring
+3,Tennis,skirts,Spring
+3,Maxi Skirt,skirts,Spring
+3,Plus-size clothing,skirts,Spring
+2,Denim,skirts,Spring
+2,Midi Skirt,skirts,Spring
+2,Sock,skirts,Spring
+2,Top,skirts,Spring
+2,Wear,skirts,Spring
+2,Trousers,skirts,Spring
+2,Shorts,skirts,Spring
+2,Bed skirt,skirts,Spring
+1,Pencil skirt,skirts,Spring
+1,Pencil,skirts,Spring
+1,Old Navy,skirts,Spring
+1,Glove,skirts,Spring
+1,Blog,skirts,Spring
+100,Sweater,sweaters,Spring
+16,Woman,sweaters,Spring
+11,Man,sweaters,Spring
+6,Cardigan,sweaters,Spring
+5,Clothing,sweaters,Spring
+4,Knitting,sweaters,Spring
+4,Hoodie,sweaters,Spring
+3,Shirt,sweaters,Spring
+3,Women's Sweater,sweaters,Spring
+3,Cashmere wool,sweaters,Spring
+3,Men's Sweater,sweaters,Spring
+3,Jacket,sweaters,Spring
+2,Sleeve,sweaters,Spring
+2,Wool,sweaters,Spring
+2,Summer,sweaters,Spring
+2,Zipper,sweaters,Spring
+2,Macy's,sweaters,Spring
+2,Cotton,sweaters,Spring
+2,Neck,sweaters,Spring
+2,Spring,sweaters,Spring
+2,Sweatshirt,sweaters,Spring
+1,Ralph Lauren,sweaters,Spring
+1,Wear,sweaters,Spring
+1,Knitted fabric,sweaters,Spring
+1,Talbots,sweaters,Spring
+100,lululemon,sweatshirts,Spring
+91,H&M,sweatshirts,Spring
+83,American Eagle,sweatshirts,Spring
+81,Crop top,sweatshirts,Spring
+77,American Eagle Outfitters,sweatshirts,Spring
+77,American Eagle Outfitters,sweatshirts,Spring
+76,Under Armour,sweatshirts,Spring
+75,The North Face,sweatshirts,Spring
+72,Gap,sweatshirts,Spring
+72,Hanesbrands,sweatshirts,Spring
+68,Preppy,sweatshirts,Spring
+65,Tie-dye,sweatshirts,Spring
+61,Gildan,sweatshirts,Spring
+59,Ralph Lauren,sweatshirts,Spring
+54,Zara,sweatshirts,Spring
+46,Fraternities and sororities,sweatshirts,Spring
+45,Hollister,sweatshirts,Spring
+33,Gift shop,sweatshirts,Spring
+31,Comfortable,sweatshirts,Spring
+25,Seaside,sweatshirts,Spring
+100,Clothing,clothing,Summer
+6,Clothing store,clothing,Summer
+6,Brand,clothing,Summer
+5,Clothing brand,clothing,Summer
+2,Plus-size clothing,clothing,Summer
+2,SHEIN,clothing,Summer
+2,Men's Clothing,clothing,Summer
+1,Cider,clothing,Summer
+1,Fashion,clothing,Summer
+1,Boutique,clothing,Summer
+1,Cider,clothing,Summer
+1,Children's clothing,clothing,Summer
+1,Vintage clothing,clothing,Summer
+0,Garage,clothing,Summer
+0,Garage,clothing,Summer
+0,CUTS,clothing,Summer
+0,Garage,clothing,Summer
+0,Linen,clothing,Summer
+0,Sun protective clothing,clothing,Summer
+0,Justice,clothing,Summer
+0,Optional,clothing,Summer
+0,prAna,clothing,Summer
+0,Allowance,clothing,Summer
+0,SHEIN,clothing,Summer
+100,Blouse,blouses,Summer
+38,Woman,blouses,Summer
+12,Top,blouses,Summer
+9,Sleeve,blouses,Summer
+8,Shirt,blouses,Summer
+7,Clothing,blouses,Summer
+7,Sweater,blouses,Summer
+7,White,blouses,Summer
+6,Plus-size clothing,blouses,Summer
+6,Dress,blouses,Summer
+4,Macy's,blouses,Summer
+4,Summer,blouses,Summer
+3,T-shirt,blouses,Summer
+3,Button,blouses,Summer
+3,JCPenney,blouses,Summer
+3,Trousers,blouses,Summer
+3,JCPenney,blouses,Summer
+3,SHEIN,blouses,Summer
+2,Dress shirt,blouses,Summer
+2,Macy's,blouses,Summer
+2,Macy's,blouses,Summer
+2,Cotton,blouses,Summer
+2,Silk,blouses,Summer
+2,Kohl's,blouses,Summer
+2,Kohl's,blouses,Summer
+100,Denim,denim,Summer
+19,Jeans,denim,Summer
+16,Jacket,denim,Summer
+14,Jean jacket,denim,Summer
+13,Shorts,denim,Summer
+11,Woman,denim,Summer
+8,Skirt,denim,Summer
+8,Dress,denim,Summer
+8,Shirt,denim,Summer
+8,Jean Shorts,denim,Summer
+5,Denim skirt,denim,Summer
+4,Trousers,denim,Summer
+4,Blue,denim,Summer
+3,Handbag,denim,Summer
+2,Levi's,denim,Summer
+2,Levi Strauss & Co.,denim,Summer
+2,Jumpsuit,denim,Summer
+2,Sleeve,denim,Summer
+2,Levi’s,denim,Summer
+2,Overalls,denim,Summer
+2,Top,denim,Summer
+2,Waistcoat,denim,Summer
+2,Plus-size clothing,denim,Summer
+1,High-rise,denim,Summer
+1,Button,denim,Summer
+100,Dress,dresses,Summer
+23,Clothing,dresses,Summer
+17,Wedding,dresses,Summer
+11,Woman,dresses,Summer
+11,Wedding dress,dresses,Summer
+5,Plus-size clothing,dresses,Summer
+5,Summer,dresses,Summer
+5,Formal wear,dresses,Summer
+4,Bridesmaid,dresses,Summer
+4,Bridesmaid dress,dresses,Summer
+4,Bride,dresses,Summer
+3,SHEIN,dresses,Summer
+3,Sleeve,dresses,Summer
+3,Homecoming,dresses,Summer
+3,Prom,dresses,Summer
+3,Macy's,dresses,Summer
+2,Cocktail,dresses,Summer
+2,Prom dresses,dresses,Summer
+2,Plus Size Dress,dresses,Summer
+2,Cocktail dress,dresses,Summer
+2,Lulus,dresses,Summer
+1,Quinceañera,dresses,Summer
+1,Autumn,dresses,Summer
+1,Reformation,dresses,Summer
+1,27 Dresses,dresses,Summer
+100,Trousers,pants,Summer
+14,Man,pants,Summer
+13,Woman,pants,Summer
+7,Clothing,pants,Summer
+7,Cargo pants,pants,Summer
+5,Cargo,pants,Summer
+4,Shirt,pants,Summer
+4,Size,pants,Summer
+4,Jeans,pants,Summer
+3,Linen,pants,Summer
+3,Khaki,pants,Summer
+2,Shorts,pants,Summer
+2,Yoga pants,pants,Summer
+2,Yoga,pants,Summer
+2,Dress Pants,pants,Summer
+2,Dickies,pants,Summer
+2,Grey,pants,Summer
+2,Bell-bottoms,pants,Summer
+2,Dickies,pants,Summer
+2,Dickies,pants,Summer
+2,Leather,pants,Summer
+1,Wide-leg jeans,pants,Summer
+1,Uniform,pants,Summer
+1,H&M,pants,Summer
+1,H&M,pants,Summer
+100,Shirt,shirts,Summer
+63,T-shirt,shirts,Summer
+14,Man,shirts,Summer
+7,Polo shirt,shirts,Summer
+6,Clothing,shirts,Summer
+5,Sleeve,shirts,Summer
+5,Dress shirt,shirts,Summer
+3,custom-made,shirts,Summer
+3,Button,shirts,Summer
+2,Shorts,shirts,Summer
+2,Men's Shirt,shirts,Summer
+1,Cotton,shirts,Summer
+1,Aloha shirt,shirts,Summer
+1,Printing,shirts,Summer
+1,Collar,shirts,Summer
+1,Hawaiian,shirts,Summer
+1,Graphics,shirts,Summer
+1,Sleeveless shirt,shirts,Summer
+1,Uniform,shirts,Summer
+1,Linen,shirts,Summer
+0,Columbia,shirts,Summer
+0,Pro Club,shirts,Summer
+0,Hot Topic,shirts,Summer
+0,Hot Topic,shirts,Summer
+0,Hot Topic,shirts,Summer
+100,Shorts,shorts,Summer
+16,Man,shorts,Summer
+13,Woman,shorts,Summer
+6,Nike,shorts,Summer
+5,Nike,shorts,Summer
+5,Nike Store,shorts,Summer
+5,Shirt,shorts,Summer
+5,Cycling shorts,shorts,Summer
+5,YouTube Shorts,shorts,Summer
+4,Jean Shorts,shorts,Summer
+4,Jeans,shorts,Summer
+4,Bicycle,shorts,Summer
+3,T-shirt,shorts,Summer
+3,Boardshorts,shorts,Summer
+3,Men's Shorts,shorts,Summer
+3,Gym shorts,shorts,Summer
+3,Swimming,shorts,Summer
+3,Lululemon Athletica,shorts,Summer
+3,lululemon,shorts,Summer
+3,lululemon,shorts,Summer
+2,Denim,shorts,Summer
+2,Cargo Shorts,shorts,Summer
+2,Trousers,shorts,Summer
+1,Khaki,shorts,Summer
+1,Under Armour,shorts,Summer
+100,Skirt,skirts,Summer
+16,Woman,skirts,Summer
+8,Dress,skirts,Summer
+7,Miniskirt,skirts,Summer
+6,Summer,skirts,Summer
+6,side,skirts,Summer
+4,Shirt,skirts,Summer
+3,Denim skirt,skirts,Summer
+3,Tennis,skirts,Summer
+3,Sock,skirts,Summer
+3,Maxi Skirt,skirts,Summer
+2,Denim,skirts,Summer
+2,Shorts,skirts,Summer
+2,Plus-size clothing,skirts,Summer
+2,Trousers,skirts,Summer
+2,Top,skirts,Summer
+2,Midi Skirt,skirts,Summer
+2,Wear,skirts,Summer
+2,Bed skirt,skirts,Summer
+2,Uniform,skirts,Summer
+1,AMD,skirts,Summer
+1,Khaki,skirts,Summer
+1,Collar,skirts,Summer
+1,Driving glove,skirts,Summer
+1,Grass skirt,skirts,Summer
+100,Sweater,sweaters,Summer
+16,Woman,sweaters,Summer
+9,Man,sweaters,Summer
+6,Cardigan,sweaters,Summer
+6,Clothing,sweaters,Summer
+4,Knitting,sweaters,Summer
+3,Hoodie,sweaters,Summer
+3,Women's Sweater,sweaters,Summer
+3,Autumn,sweaters,Summer
+3,Sleeve,sweaters,Summer
+3,Jacket,sweaters,Summer
+2,Men's Sweater,sweaters,Summer
+2,Christmas,sweaters,Summer
+2,Cashmere wool,sweaters,Summer
+2,Christmas jumper,sweaters,Summer
+2,Wool,sweaters,Summer
+2,Zipper,sweaters,Summer
+2,Top,sweaters,Summer
+2,Plus-size clothing,sweaters,Summer
+1,Old Navy,sweaters,Summer
+1,Winter,sweaters,Summer
+1,Graphics,sweaters,Summer
+1,Boys' Sweater,sweaters,Summer
+0,Navy Blue,sweaters,Summer
+0,Sweater vest,sweaters,Summer
+100,Sweatshirt,sweatshirts,Summer
+15,Hoodie,sweatshirts,Summer
+12,Woman,sweatshirts,Summer
+9,Man,sweatshirts,Summer
+9,Sweater,sweatshirts,Summer
+7,Nike,sweatshirts,Summer
+7,Nike Store,sweatshirts,Summer
+7,Nike,sweatshirts,Summer
+6,Shirt,sweatshirts,Summer
+6,T-shirt,sweatshirts,Summer
+4,Clothing,sweatshirts,Summer
+4,Sweatshirt,sweatshirts,Summer
+4,Crew neck,sweatshirts,Summer
+4,custom-made,sweatshirts,Summer
+3,Zipper,sweatshirts,Summer
+2,Hood,sweatshirts,Summer
+2,Graphics,sweatshirts,Summer
+2,Embroidery,sweatshirts,Summer
+2,Etsy,sweatshirts,Summer
+2,Etsy,sweatshirts,Summer
+2,Etsy,sweatshirts,Summer
+2,Shorts,sweatshirts,Summer
+100,Clothing,clothing,Fall
+6,Brand,clothing,Fall
+5,Clothing store,clothing,Fall
+5,Clothing brand,clothing,Fall
+2,Men's Clothing,clothing,Fall
+2,Plus-size clothing,clothing,Fall
+2,SHEIN,clothing,Fall
+1,Cider,clothing,Fall
+1,Fashion,clothing,Fall
+1,Cider,clothing,Fall
+1,Children's clothing,clothing,Fall
+1,Custom,clothing,Fall
+0,Folk costume,clothing,Fall
+0,Quince,clothing,Fall
+0,Winter clothing,clothing,Fall
+100,Blouse,blouses,Fall
+36,Woman,blouses,Fall
+12,Top,blouses,Fall
+9,Sweater,blouses,Fall
+8,Sleeve,blouses,Fall
+8,Shirt,blouses,Fall
+8,Clothing,blouses,Fall
+6,Plus-size clothing,blouses,Fall
+6,Dress,blouses,Fall
+6,White,blouses,Fall
+4,Macy's,blouses,Fall
+3,Silk,blouses,Fall
+3,Trousers,blouses,Fall
+3,T-shirt,blouses,Fall
+3,SHEIN,blouses,Fall
+2,Button,blouses,Fall
+2,JCPenney,blouses,Fall
+2,JCPenney,blouses,Fall
+2,Macy's,blouses,Fall
+2,Macy's,blouses,Fall
+2,Dress shirt,blouses,Fall
+2,Kohl's,blouses,Fall
+2,Kohl's,blouses,Fall
+2,Skirt,blouses,Fall
+2,Neck,blouses,Fall
+100,Denim,denim,Fall
+23,Jeans,denim,Fall
+21,Jacket,denim,Fall
+19,Jean jacket,denim,Fall
+8,Shirt,denim,Fall
+7,Dress,denim,Fall
+7,Skirt,denim,Fall
+5,Trousers,denim,Fall
+4,Denim skirt,denim,Fall
+4,Shorts,denim,Fall
+4,Blue,denim,Fall
+3,Levi's,denim,Fall
+3,Levi Strauss & Co.,denim,Fall
+3,Air Jordan,denim,Fall
+2,Handbag,denim,Fall
+2,Jumpsuit,denim,Fall
+2,Levi’s,denim,Fall
+2,Jean Shorts,denim,Fall
+2,Overalls,denim,Fall
+2,Sleeve,denim,Fall
+2,Nike Air Jordan I,denim,Fall
+2,Waistcoat,denim,Fall
+2,Leather,denim,Fall
+2,Top,denim,Fall
+100,Dress,dresses,Fall
+24,Clothing,dresses,Fall
+15,Wedding,dresses,Fall
+9,Wedding dress,dresses,Fall
+6,Homecoming,dresses,Fall
+6,Formal wear,dresses,Fall
+5,Plus-size clothing,dresses,Fall
+4,Sleeve,dresses,Fall
+4,Bridesmaid,dresses,Fall
+4,Bridesmaid dress,dresses,Fall
+4,Prom,dresses,Fall
+4,Prom dresses,dresses,Fall
+3,Bride,dresses,Fall
+3,Cocktail,dresses,Fall
+3,Mother,dresses,Fall
+3,Macy's,dresses,Fall
+3,SHEIN,dresses,Fall
+3,Autumn,dresses,Fall
+3,Cocktail dress,dresses,Fall
+2,Windsor,dresses,Fall
+2,Party,dresses,Fall
+2,Plus Size Dress,dresses,Fall
+2,Lulus,dresses,Fall
+2,Dillard's,dresses,Fall
+1,Little black dress,dresses,Fall
+100,Trousers,pants,Fall
+14,Man,pants,Fall
+13,Woman,pants,Fall
+7,Cargo pants,pants,Fall
+6,Clothing,pants,Fall
+5,Cargo,pants,Fall
+4,Shirt,pants,Fall
+4,Jeans,pants,Fall
+3,Leather,pants,Fall
+3,Pajamas,pants,Fall
+2,Sweatpants,pants,Fall
+2,Yoga pants,pants,Fall
+2,Yoga,pants,Fall
+2,Boy,pants,Fall
+2,Bell-bottoms,pants,Fall
+2,Nike Store,pants,Fall
+2,Nike,pants,Fall
+2,Jacket,pants,Fall
+2,Khaki,pants,Fall
+2,Grey,pants,Fall
+2,Dress Pants,pants,Fall
+2,Corduroy,pants,Fall
+2,Suit,pants,Fall
+2,Corduroy Pants,pants,Fall
+1,Tartan,pants,Fall
+100,Shirt,shirts,Fall
+65,T-shirt,shirts,Fall
+15,Man,shirts,Fall
+8,Clothing,shirts,Fall
+7,Sleeve,shirts,Fall
+6,Dress shirt,shirts,Fall
+5,Polo shirt,shirts,Fall
+3,custom-made,shirts,Fall
+3,Flannel,shirts,Fall
+3,Button,shirts,Fall
+2,Men's Shirt,shirts,Fall
+1,Hoodie,shirts,Fall
+1,JiffyShirts.com,shirts,Fall
+1,Shorts,shirts,Fall
+1,Sweatshirt,shirts,Fall
+1,Tartan,shirts,Fall
+0,Sweatshirt,shirts,Fall
+0,Breast cancer,shirts,Fall
+0,Henley shirt,shirts,Fall
+0,Hood,shirts,Fall
+100,Shorts,shorts,Fall
+14,Man,shorts,Fall
+12,YouTube Shorts,shorts,Fall
+6,Nike,shorts,Fall
+6,Nike,shorts,Fall
+6,Nike Store,shorts,Fall
+5,Shirt,shorts,Fall
+5,Cycling shorts,shorts,Fall
+3,Bicycle,shorts,Fall
+3,T-shirt,shorts,Fall
+3,Gym shorts,shorts,Fall
+3,Jeans,shorts,Fall
+3,Trousers,shorts,Fall
+3,Lululemon Athletica,shorts,Fall
+3,lululemon,shorts,Fall
+3,Jean Shorts,shorts,Fall
+3,lululemon,shorts,Fall
+2,Buttocks,shorts,Fall
+2,Running,shorts,Fall
+2,Men's Shorts,shorts,Fall
+1,Pajamas,shorts,Fall
+1,Boxer shorts,shorts,Fall
+1,Sec Shorts,shorts,Fall
+1,Short,shorts,Fall
+1,Sweatpants,shorts,Fall
+100,Skirt,skirts,Fall
+17,Woman,skirts,Fall
+9,Miniskirt,skirts,Fall
+6,Dress,skirts,Fall
+6,side,skirts,Fall
+4,Denim skirt,skirts,Fall
+3,Denim,skirts,Fall
+3,Wear,skirts,Fall
+2,Plus-size clothing,skirts,Fall
+2,Tennis,skirts,Fall
+2,Top,skirts,Fall
+2,Maxi Skirt,skirts,Fall
+2,Tartan,skirts,Fall
+2,Midi Skirt,skirts,Fall
+2,Bed skirt,skirts,Fall
+2,Leather,skirts,Fall
+2,Winter,skirts,Fall
+2,Christmas tree,skirts,Fall
+2,Pencil,skirts,Fall
+2,Pleat,skirts,Fall
+2,Sweater,skirts,Fall
+1,Christmas Tree Skirt,skirts,Fall
+1,Poodle,skirts,Fall
+1,Wool,skirts,Fall
+1,Leggings,skirts,Fall
+100,Leggings,sweaters,Fall
+99,Banana Republic,sweaters,Fall
+96,Banana Republic,sweaters,Fall
+94,American Eagle,sweaters,Fall
+94,American Eagle Outfitters,sweaters,Fall
+94,American Eagle Outfitters,sweaters,Fall
+91,Waistcoat,sweaters,Fall
+90,Dress shirt,sweaters,Fall
+88,Wear,sweaters,Fall
+85,Knitted fabric,sweaters,Fall
+76,Designer,sweaters,Fall
+76,Skirt,sweaters,Fall
+69,Polar fleece,sweaters,Fall
+69,Irish people,sweaters,Fall
+67,Tunic,sweaters,Fall
+66,Lands' End,sweaters,Fall
+66,LOFT,sweaters,Fall
+66,Graphics,sweaters,Fall
+65,Aerie,sweaters,Fall
+63,LOFT,sweaters,Fall
+61,Nordstrom Rack,sweaters,Fall
+61,Abercrombie & Fitch,sweaters,Fall
+60,Nordstrom Rack,sweaters,Fall
+58,Sweatpants,sweaters,Fall
+100,The North Face,sweatshirts,Fall
+94,Leggings,sweatshirts,Fall
+93,Under Armour,sweatshirts,Fall
+89,Aerie,sweatshirts,Fall
+87,Urban Outfitters,sweatshirts,Fall
+84,Merchandising,sweatshirts,Fall
+83,Youth,sweatshirts,Fall
+73,Gap,sweatshirts,Fall
+69,Gildan,sweatshirts,Fall
+68,Gildan,sweatshirts,Fall
+52,Abercrombie & Fitch,sweatshirts,Fall
+42,Christmas jumper,sweatshirts,Fall
+41,Petite size,sweatshirts,Fall
+39,Christmas gift,sweatshirts,Fall
+38,Tunic,sweatshirts,Fall
+36,The North Face,sweatshirts,Fall
+100,Clothing,clothing,Winter
+6,Brand,clothing,Winter
+5,Clothing store,clothing,Winter
+5,Clothing brand,clothing,Winter
+2,Men's Clothing,clothing,Winter
+2,Plus-size clothing,clothing,Winter
+2,SHEIN,clothing,Winter
+1,Fashion,clothing,Winter
+1,Cider,clothing,Winter
+1,Children's clothing,clothing,Winter
+1,Boutique,clothing,Winter
+1,Cider,clothing,Winter
+1,Donation,clothing,Winter
+1,Vuori,clothing,Winter
+0,Quince,clothing,Winter
+0,Venus Fashion,clothing,Winter
+0,Western,clothing,Winter
+0,Western wear,clothing,Winter
+0,Fashion design,clothing,Winter
+0,Clothing rental,clothing,Winter
+0,Rockstar,clothing,Winter
+0,KÜHL,clothing,Winter
+100,Blouse,blouses,Winter
+36,Woman,blouses,Winter
+13,Top,blouses,Winter
+9,Sweater,blouses,Winter
+9,Clothing,blouses,Winter
+9,Sleeve,blouses,Winter
+9,Shirt,blouses,Winter
+6,Dress,blouses,Winter
+6,White,blouses,Winter
+6,Plus-size clothing,blouses,Winter
+4,Macy's,blouses,Winter
+3,Silk,blouses,Winter
+3,Trousers,blouses,Winter
+3,SHEIN,blouses,Winter
+3,T-shirt,blouses,Winter
+2,Dress shirt,blouses,Winter
+2,Button,blouses,Winter
+2,JCPenney,blouses,Winter
+2,JCPenney,blouses,Winter
+2,Macy's,blouses,Winter
+2,Macy's,blouses,Winter
+2,Neck,blouses,Winter
+2,Kohl's,blouses,Winter
+2,Kohl's,blouses,Winter
+2,Cotton,blouses,Winter
+100,Denim,denim,Winter
+25,Jeans,denim,Winter
+20,Jacket,denim,Winter
+17,Jean jacket,denim,Winter
+8,Skirt,denim,Winter
+7,Shirt,denim,Winter
+6,Dress,denim,Winter
+6,Black,denim,Winter
+6,Trousers,denim,Winter
+5,Denim skirt,denim,Winter
+5,Shorts,denim,Winter
+4,Blue,denim,Winter
+3,Handbag,denim,Winter
+3,Levi's,denim,Winter
+3,Levi Strauss & Co.,denim,Winter
+3,Jumpsuit,denim,Winter
+2,Jean Shorts,denim,Winter
+2,Levi’s,denim,Winter
+2,Top,denim,Winter
+2,Sleeve,denim,Winter
+2,Zara,denim,Winter
+2,Overalls,denim,Winter
+2,Mother Denim,denim,Winter
+2,Sweater,denim,Winter
+2,Leather,denim,Winter
+100,Dress,dresses,Winter
+23,Clothing,dresses,Winter
+14,Wedding,dresses,Winter
+11,Wedding dress,dresses,Winter
+11,Prom,dresses,Winter
+11,Prom dresses,dresses,Winter
+7,Formal wear,dresses,Winter
+5,Bridesmaid dress,dresses,Winter
+5,Bridesmaid,dresses,Winter
+5,Plus-size clothing,dresses,Winter
+4,Bride,dresses,Winter
+4,Mother,dresses,Winter
+4,Sleeve,dresses,Winter
+3,SHEIN,dresses,Winter
+3,Macy's,dresses,Winter
+2,Cocktail,dresses,Winter
+2,Cocktail dress,dresses,Winter
+2,Pink,dresses,Winter
+2,Party,dresses,Winter
+2,Summer,dresses,Winter
+2,Plus Size Dress,dresses,Winter
+2,Windsor,dresses,Winter
+2,Gown,dresses,Winter
+2,Lulus,dresses,Winter
+2,Dillard's,dresses,Winter
+100,Trousers,pants,Winter
+14,Man,pants,Winter
+13,Woman,pants,Winter
+7,Cargo pants,pants,Winter
+6,Black,pants,Winter
+6,Clothing,pants,Winter
+5,Cargo,pants,Winter
+4,Jeans,pants,Winter
+4,Leather,pants,Winter
+3,Shirt,pants,Winter
+3,Pajamas,pants,Winter
+3,Size,pants,Winter
+3,Nike,pants,Winter
+3,Sweatpants,pants,Winter
+2,Snow,pants,Winter
+2,Yoga pants,pants,Winter
+2,Nike Store,pants,Winter
+2,Bell-bottoms,pants,Winter
+2,Nike,pants,Winter
+2,Jacket,pants,Winter
+2,Yoga,pants,Winter
+2,Snow Pants,pants,Winter
+2,Skiing,pants,Winter
+2,Grey,pants,Winter
+2,Dress Pants,pants,Winter
+100,Shirt,shirts,Winter
+68,T-shirt,shirts,Winter
+16,Man,shirts,Winter
+7,Clothing,shirts,Winter
+7,Sleeve,shirts,Winter
+6,Dress shirt,shirts,Winter
+5,Polo shirt,shirts,Winter
+3,custom-made,shirts,Winter
+3,Button,shirts,Winter
+2,Men's Shirt,shirts,Winter
+2,Flannel,shirts,Winter
+2,Hoodie,shirts,Winter
+1,Shorts,shirts,Winter
+1,JiffyShirts.com,shirts,Winter
+1,Cotton,shirts,Winter
+1,Graphics,shirts,Winter
+0,Saint Patrick's Day,shirts,Winter
+0,UNTUCKit,shirts,Winter
+0,Compression garment,shirts,Winter
+0,Linen,shirts,Winter
+0,Cincy Shirts,shirts,Winter
+100,Shorts,shorts,Winter
+16,YouTube Shorts,shorts,Winter
+14,Man,shorts,Winter
+7,Nike,shorts,Winter
+6,Nike Store,shorts,Winter
+6,Nike,shorts,Winter
+5,Shirt,shorts,Winter
+4,Jeans,shorts,Winter
+3,Gym shorts,shorts,Winter
+3,T-shirt,shorts,Winter
+3,Jean Shorts,shorts,Winter
+3,Cycling shorts,shorts,Winter
+3,Bicycle,shorts,Winter
+3,Trousers,shorts,Winter
+3,lululemon,shorts,Winter
+3,Lululemon Athletica,shorts,Winter
+2,lululemon,shorts,Winter
+2,Buttocks,shorts,Winter
+2,Boardshorts,shorts,Winter
+2,Swimming,shorts,Winter
+2,Men's Shorts,shorts,Winter
+2,Denim,shorts,Winter
+2,Running,shorts,Winter
+2,Short,shorts,Winter
+1,Compression garment,shorts,Winter
+100,Skirt,skirts,Winter
+16,Woman,skirts,Winter
+8,Miniskirt,skirts,Winter
+7,side,skirts,Winter
+6,Dress,skirts,Winter
+5,Clothing,skirts,Winter
+4,Denim skirt,skirts,Winter
+3,Denim,skirts,Winter
+2,Plus-size clothing,skirts,Winter
+2,Wear,skirts,Winter
+2,Maxi Skirt,skirts,Winter
+2,Top,skirts,Winter
+2,Bed skirt,skirts,Winter
+2,Midi Skirt,skirts,Winter
+2,Trousers,skirts,Winter
+2,Tennis,skirts,Winter
+2,Pencil,skirts,Winter
+2,Pencil skirt,skirts,Winter
+2,Leather,skirts,Winter
+2,Pleat,skirts,Winter
+2,Shorts,skirts,Winter
+1,Summer,skirts,Winter
+1,Swimsuit,skirts,Winter
+1,Bumper,skirts,Winter
+1,Swimming,skirts,Winter
+100,Sweater,sweaters,Winter
+18,Woman,sweaters,Winter
+16,Christmas jumper,sweaters,Winter
+15,Christmas,sweaters,Winter
+13,Man,sweaters,Winter
+4,Women's Sweater,sweaters,Winter
+4,Men's Sweater,sweaters,Winter
+3,Cardigan,sweaters,Winter
+3,Cashmere wool,sweaters,Winter
+3,Hoodie,sweaters,Winter
+3,Knitting,sweaters,Winter
+2,Macy's,sweaters,Winter
+2,Wool,sweaters,Winter
+2,Kohl's,sweaters,Winter
+2,Kohl's,sweaters,Winter
+2,Zipper,sweaters,Winter
+1,funny,sweaters,Winter
+1,Dillard's,sweaters,Winter
+0,Spencer's,sweaters,Winter
+0,SPENCER GIFTS,sweaters,Winter
+0,Belk,sweaters,Winter
+0,Belk,sweaters,Winter
+0,Grinch,sweaters,Winter
+0,Dillard's,sweaters,Winter
+0,Alpaca,sweaters,Winter
+100,Sweatshirt,sweatshirts,Winter
+19,Hoodie,sweatshirts,Winter
+14,Woman,sweatshirts,Winter
+12,Man,sweatshirts,Winter
+10,Sweater,sweatshirts,Winter
+9,Nike,sweatshirts,Winter
+8,Nike,sweatshirts,Winter
+7,Nike Store,sweatshirts,Winter
+5,Shirt,sweatshirts,Winter
+4,T-shirt,sweatshirts,Winter
+3,custom-made,sweatshirts,Winter
+3,Crew neck,sweatshirts,Winter
+3,Sweatshirt,sweatshirts,Winter
+2,Zipper,sweatshirts,Winter
+2,Hood,sweatshirts,Winter
+2,Graphics,sweatshirts,Winter
+2,Gildan,sweatshirts,Winter
+2,Embroidery,sweatshirts,Winter
+2,Sweatpants,sweatshirts,Winter
+1,Dick's Sporting Goods,sweatshirts,Winter
+1,DICK'S Sporting Goods,sweatshirts,Winter
+1,DICK’S Sporting Goods,sweatshirts,Winter
+0,Custom Ink,sweatshirts,Winter
+0,Vintage clothing,sweatshirts,Winter
